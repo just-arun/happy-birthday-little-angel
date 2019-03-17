@@ -1,0 +1,14 @@
+.wrapper {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2rem;
+}
+
+.wrapper .emoji {
+  height: 30px;
+}
+
+.wrapper .center {
+  text-align: center;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=main.css.map */
