@@ -11,4 +11,8 @@
   text-align: center;
   text-transform: uppercase;
 }
+
+.card-content {
+  text-transform: capitalize;
+}
 /*# sourceMappingURL=main.css.map */
